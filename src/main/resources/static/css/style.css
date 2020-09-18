@@ -1,0 +1,22 @@
+body {
+    background-color: #F8F8FF;
+    color: #696969;
+    font-family: Montserrat, Roboto, serif;
+}
+
+.header-wrapper {
+}
+
+.page-wrapper {
+    background-color: #FFF;
+    border: 1px solid #848391;
+    margin: 80px auto;
+    min-height: 800px;
+    padding: 20px;
+    width: 900px;
+
+}
+
+.product {
+    padding: 15px;
+}
